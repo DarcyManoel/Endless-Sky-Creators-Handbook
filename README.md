@@ -4,4 +4,4 @@ I will try to use this repository to collate as much useful information as possi
 The bulk of information will be held in the [Wiki](https://github.com/DarcyManoel/Endless-Sky-Creators-Handbook/wiki).
 
 > [!NOTE]
-> This is an **unofficial** collection of information intended to be of personal use, but will be made publically available anyway.  
+> This is an **unofficial** collection of information intended to be of personal use, but will be made publicly available anyway.  
